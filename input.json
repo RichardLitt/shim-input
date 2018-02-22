@@ -1,0 +1,1101 @@
+{
+  "prCreators": [
+    {
+      "login": "greenkeeperio-bot",
+      "name": "Greenkeeper",
+      "url": "https://github.com/greenkeeperio-bot",
+      "count": 165
+    },
+    {
+      "login": "haadcode",
+      "name": "Haad",
+      "url": "https://github.com/haadcode",
+      "count": 31
+    },
+    {
+      "login": "RichardLitt",
+      "name": "Richard Littauer",
+      "url": "https://github.com/RichardLitt",
+      "count": 5
+    },
+    {
+      "login": "dignifiedquire",
+      "name": "Friedel Ziegelmayer",
+      "url": "https://github.com/dignifiedquire",
+      "count": 4
+    },
+    {
+      "login": "ricardojmendez",
+      "name": "Ricardo J. Méndez",
+      "url": "https://github.com/ricardojmendez",
+      "count": 3
+    },
+    {
+      "login": "shamb0t",
+      "name": null,
+      "url": "https://github.com/shamb0t",
+      "count": 2
+    },
+    {
+      "login": "nightwolfz",
+      "name": "Ryan M.",
+      "url": "https://github.com/nightwolfz",
+      "count": 1
+    },
+    {
+      "login": "Alex-Werner",
+      "name": "Alex Werner",
+      "url": "https://github.com/Alex-Werner",
+      "count": 1
+    },
+    {
+      "login": "atfornes",
+      "name": "Antonio Tenorio-Fornés",
+      "url": "https://github.com/atfornes",
+      "count": 1
+    },
+    {
+      "login": "claus",
+      "name": "Claus Wahlers",
+      "url": "https://github.com/claus",
+      "count": 1
+    },
+    {
+      "login": "prabodhmeshram",
+      "name": "Prabodh Meshram",
+      "url": "https://github.com/prabodhmeshram",
+      "count": 1
+    },
+    {
+      "login": "Kubuxu",
+      "name": "Jakub Sztandera",
+      "url": "https://github.com/Kubuxu",
+      "count": 1
+    },
+    {
+      "login": "onionjake",
+      "name": "",
+      "url": "https://github.com/onionjake",
+      "count": 1
+    },
+    {
+      "login": "FrauBienenstich",
+      "name": "Susanne Dewein",
+      "url": "https://github.com/FrauBienenstich",
+      "count": 1
+    },
+    {
+      "login": "lufte",
+      "name": "Javier Ayres",
+      "url": "https://github.com/lufte",
+      "count": 1
+    },
+    {
+      "login": "garbados",
+      "name": "Diana Thayer",
+      "url": "https://github.com/garbados",
+      "count": 1
+    },
+    {
+      "login": "thiagodelgado111",
+      "name": "Thiago Delgado",
+      "url": "https://github.com/thiagodelgado111",
+      "count": 1
+    },
+    {
+      "login": "benrogmans",
+      "name": "Ben Rogmans",
+      "url": "https://github.com/benrogmans",
+      "count": 1
+    }
+  ],
+  "prCommentators": [
+    {
+      "login": "haadcode",
+      "name": "Haad",
+      "url": "https://github.com/haadcode",
+      "count": 46
+    },
+    {
+      "login": "shamb0t",
+      "name": null,
+      "url": "https://github.com/shamb0t",
+      "count": 4
+    },
+    {
+      "login": "RichardLitt",
+      "name": "Richard Littauer",
+      "url": "https://github.com/RichardLitt",
+      "count": 2
+    },
+    {
+      "login": "dignifiedquire",
+      "name": "Friedel Ziegelmayer",
+      "url": "https://github.com/dignifiedquire",
+      "count": 2
+    },
+    {
+      "login": "thiagodelgado111",
+      "name": "Thiago Delgado",
+      "url": "https://github.com/thiagodelgado111",
+      "count": 2
+    },
+    {
+      "login": "cristiano-belloni",
+      "name": "Cristiano Belloni",
+      "url": "https://github.com/cristiano-belloni",
+      "count": 2
+    },
+    {
+      "login": "Steake",
+      "name": "Oli",
+      "url": "https://github.com/Steake",
+      "count": 1
+    },
+    {
+      "login": "prabodhmeshram",
+      "name": "Prabodh Meshram",
+      "url": "https://github.com/prabodhmeshram",
+      "count": 1
+    },
+    {
+      "login": "shd101wyy",
+      "name": "Yiyi Wang",
+      "url": "https://github.com/shd101wyy",
+      "count": 1
+    },
+    {
+      "login": "mmick66",
+      "name": "Michael Michailidis",
+      "url": "https://github.com/mmick66",
+      "count": 1
+    },
+    {
+      "login": "ricardojmendez",
+      "name": "Ricardo J. Méndez",
+      "url": "https://github.com/ricardojmendez",
+      "count": 1
+    },
+    {
+      "login": "garbados",
+      "name": "Diana Thayer",
+      "url": "https://github.com/garbados",
+      "count": 1
+    },
+    {
+      "login": "Alex-Werner",
+      "name": "Alex Werner",
+      "url": "https://github.com/Alex-Werner",
+      "count": 1
+    },
+    {
+      "login": "claus",
+      "name": "Claus Wahlers",
+      "url": "https://github.com/claus",
+      "count": 1
+    }
+  ],
+  "issueCreators": [
+    {
+      "login": "haadcode",
+      "name": "Haad",
+      "url": "https://github.com/haadcode",
+      "count": 22
+    },
+    {
+      "login": "cristiano-belloni",
+      "name": "Cristiano Belloni",
+      "url": "https://github.com/cristiano-belloni",
+      "count": 6
+    },
+    {
+      "login": "ricardojmendez",
+      "name": "Ricardo J. Méndez",
+      "url": "https://github.com/ricardojmendez",
+      "count": 5
+    },
+    {
+      "login": "diasdavid",
+      "name": "David Dias",
+      "url": "https://github.com/diasdavid",
+      "count": 4
+    },
+    {
+      "login": "shd101wyy",
+      "name": "Yiyi Wang",
+      "url": "https://github.com/shd101wyy",
+      "count": 4
+    },
+    {
+      "login": "spaceywolfi",
+      "name": "Wolfgang Silverdream",
+      "url": "https://github.com/spaceywolfi",
+      "count": 3
+    },
+    {
+      "login": "wigy-opensource-developer",
+      "name": "wigy",
+      "url": "https://github.com/wigy-opensource-developer",
+      "count": 2
+    },
+    {
+      "login": "thiagodelgado111",
+      "name": "Thiago Delgado",
+      "url": "https://github.com/thiagodelgado111",
+      "count": 2
+    },
+    {
+      "login": "nezzard",
+      "name": null,
+      "url": "https://github.com/nezzard",
+      "count": 2
+    },
+    {
+      "login": "rkyleg",
+      "name": "",
+      "url": "https://github.com/rkyleg",
+      "count": 2
+    },
+    {
+      "login": "gagarin55",
+      "name": "gagarin55",
+      "url": "https://github.com/gagarin55",
+      "count": 2
+    },
+    {
+      "login": "dexterchan",
+      "name": null,
+      "url": "https://github.com/dexterchan",
+      "count": 2
+    },
+    {
+      "login": "bronger",
+      "name": "Torsten Bronger",
+      "url": "https://github.com/bronger",
+      "count": 1
+    },
+    {
+      "login": "vijayee",
+      "name": "Victor Morrow",
+      "url": "https://github.com/vijayee",
+      "count": 1
+    },
+    {
+      "login": "raptortech-js",
+      "name": "Jackie Scholl",
+      "url": "https://github.com/raptortech-js",
+      "count": 1
+    },
+    {
+      "login": "elsehow",
+      "name": "",
+      "url": "https://github.com/elsehow",
+      "count": 1
+    },
+    {
+      "login": "KennethHolmSeelig",
+      "name": "Kenneth Holm Seelig",
+      "url": "https://github.com/KennethHolmSeelig",
+      "count": 1
+    },
+    {
+      "login": "zabirauf",
+      "name": "Zohaib Rauf",
+      "url": "https://github.com/zabirauf",
+      "count": 1
+    },
+    {
+      "login": "MartianH",
+      "name": "",
+      "url": "https://github.com/MartianH",
+      "count": 1
+    },
+    {
+      "login": "lgleim",
+      "name": "Lars Gleim",
+      "url": "https://github.com/lgleim",
+      "count": 1
+    },
+    {
+      "login": "theD1360",
+      "name": "Diego Alejos",
+      "url": "https://github.com/theD1360",
+      "count": 1
+    },
+    {
+      "login": "edsilv",
+      "name": "Edward Silverton",
+      "url": "https://github.com/edsilv",
+      "count": 1
+    },
+    {
+      "login": "glensimister",
+      "name": null,
+      "url": "https://github.com/glensimister",
+      "count": 1
+    },
+    {
+      "login": "5310",
+      "name": "Sayantan Chaudhuri",
+      "url": "https://github.com/5310",
+      "count": 1
+    },
+    {
+      "login": "baimurzin",
+      "name": "Vladislav",
+      "url": "https://github.com/baimurzin",
+      "count": 1
+    },
+    {
+      "login": "XCJT",
+      "name": "XCJT",
+      "url": "https://github.com/XCJT",
+      "count": 1
+    },
+    {
+      "login": "jamesgibson14",
+      "name": "James",
+      "url": "https://github.com/jamesgibson14",
+      "count": 1
+    },
+    {
+      "login": "matteodem",
+      "name": "Matteo De Micheli",
+      "url": "https://github.com/matteodem",
+      "count": 1
+    },
+    {
+      "login": "carlbror",
+      "name": "Carl Jakobsson",
+      "url": "https://github.com/carlbror",
+      "count": 1
+    },
+    {
+      "login": "brainstorm",
+      "name": "Roman Valls Guimerà",
+      "url": "https://github.com/brainstorm",
+      "count": 1
+    },
+    {
+      "login": "jenswachtel",
+      "name": "Jens Wachtel",
+      "url": "https://github.com/jenswachtel",
+      "count": 1
+    },
+    {
+      "login": "codezoned",
+      "name": "Sagar Vakkala",
+      "url": "https://github.com/codezoned",
+      "count": 1
+    },
+    {
+      "login": "futpib",
+      "name": "",
+      "url": "https://github.com/futpib",
+      "count": 1
+    },
+    {
+      "login": "zbyte64",
+      "name": "Jason Kraus",
+      "url": "https://github.com/zbyte64",
+      "count": 1
+    },
+    {
+      "login": "beingmohit",
+      "name": "Mohit Agrawal",
+      "url": "https://github.com/beingmohit",
+      "count": 1
+    },
+    {
+      "login": "whyrusleeping",
+      "name": "Whyrusleeping",
+      "url": "https://github.com/whyrusleeping",
+      "count": 1
+    },
+    {
+      "login": "thisconnect",
+      "name": "tcme",
+      "url": "https://github.com/thisconnect",
+      "count": 1
+    },
+    {
+      "login": "adamski",
+      "name": "Adam Wilson",
+      "url": "https://github.com/adamski",
+      "count": 1
+    },
+    {
+      "login": "coodoo",
+      "name": "Jeremy Lu",
+      "url": "https://github.com/coodoo",
+      "count": 1
+    },
+    {
+      "login": "ashays",
+      "name": "Ashay",
+      "url": "https://github.com/ashays",
+      "count": 1
+    },
+    {
+      "login": "wthompson40",
+      "name": "Will Thompson",
+      "url": "https://github.com/wthompson40",
+      "count": 1
+    },
+    {
+      "login": "olegls2000",
+      "name": "Oleg",
+      "url": "https://github.com/olegls2000",
+      "count": 1
+    },
+    {
+      "login": "kouohhashi",
+      "name": "Ko Ohashi",
+      "url": "https://github.com/kouohhashi",
+      "count": 1
+    },
+    {
+      "login": "kidinamoto01",
+      "name": "suyuhuang",
+      "url": "https://github.com/kidinamoto01",
+      "count": 1
+    },
+    {
+      "login": "alvinzach",
+      "name": "Alvin T Zachariah",
+      "url": "https://github.com/alvinzach",
+      "count": 1
+    },
+    {
+      "login": "osarrouy",
+      "name": null,
+      "url": "https://github.com/osarrouy",
+      "count": 1
+    },
+    {
+      "login": "HenryNguyen5",
+      "name": "",
+      "url": "https://github.com/HenryNguyen5",
+      "count": 1
+    },
+    {
+      "login": "joshmh",
+      "name": "Josh Harvey",
+      "url": "https://github.com/joshmh",
+      "count": 1
+    },
+    {
+      "login": "davidrichard23",
+      "name": null,
+      "url": "https://github.com/davidrichard23",
+      "count": 1
+    },
+    {
+      "login": "garbados",
+      "name": "Diana Thayer",
+      "url": "https://github.com/garbados",
+      "count": 1
+    },
+    {
+      "login": "zaptrem",
+      "name": null,
+      "url": "https://github.com/zaptrem",
+      "count": 1
+    },
+    {
+      "login": "mattisstenejohansen",
+      "name": "Mattis Stene-Johansen",
+      "url": "https://github.com/mattisstenejohansen",
+      "count": 1
+    },
+    {
+      "login": "marcusfelix",
+      "name": null,
+      "url": "https://github.com/marcusfelix",
+      "count": 1
+    },
+    {
+      "login": "aphelionz",
+      "name": "Mark Robert Henderson",
+      "url": "https://github.com/aphelionz",
+      "count": 1
+    },
+    {
+      "login": "eusthace",
+      "name": null,
+      "url": "https://github.com/eusthace",
+      "count": 1
+    },
+    {
+      "login": "paulogr",
+      "name": "Paulo Guilherme Rodrigues",
+      "url": "https://github.com/paulogr",
+      "count": 1
+    },
+    {
+      "login": "ticruz38",
+      "name": "Ticruz",
+      "url": "https://github.com/ticruz38",
+      "count": 1
+    },
+    {
+      "login": "coyotespike",
+      "name": "coyotespike",
+      "url": "https://github.com/coyotespike",
+      "count": 1
+    },
+    {
+      "login": "pranaygp",
+      "name": "Pranay Prakash",
+      "url": "https://github.com/pranaygp",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "haadcode",
+      "name": "Haad",
+      "url": "https://github.com/haadcode",
+      "count": 199
+    },
+    {
+      "login": "cristiano-belloni",
+      "name": "Cristiano Belloni",
+      "url": "https://github.com/cristiano-belloni",
+      "count": 24
+    },
+    {
+      "login": "shd101wyy",
+      "name": "Yiyi Wang",
+      "url": "https://github.com/shd101wyy",
+      "count": 14
+    },
+    {
+      "login": "ricardojmendez",
+      "name": "Ricardo J. Méndez",
+      "url": "https://github.com/ricardojmendez",
+      "count": 9
+    },
+    {
+      "login": "dexterchan",
+      "name": null,
+      "url": "https://github.com/dexterchan",
+      "count": 8
+    },
+    {
+      "login": "garbados",
+      "name": "Diana Thayer",
+      "url": "https://github.com/garbados",
+      "count": 8
+    },
+    {
+      "login": "MikeFair",
+      "name": "Mike Fair",
+      "url": "https://github.com/MikeFair",
+      "count": 6
+    },
+    {
+      "login": "brainstorm",
+      "name": "Roman Valls Guimerà",
+      "url": "https://github.com/brainstorm",
+      "count": 5
+    },
+    {
+      "login": "cblgh",
+      "name": "Alexander Cobleigh",
+      "url": "https://github.com/cblgh",
+      "count": 5
+    },
+    {
+      "login": "rkyleg",
+      "name": "",
+      "url": "https://github.com/rkyleg",
+      "count": 5
+    },
+    {
+      "login": "mitar",
+      "name": "Mitar",
+      "url": "https://github.com/mitar",
+      "count": 5
+    },
+    {
+      "login": "MartianH",
+      "name": "",
+      "url": "https://github.com/MartianH",
+      "count": 4
+    },
+    {
+      "login": "thiagodelgado111",
+      "name": "Thiago Delgado",
+      "url": "https://github.com/thiagodelgado111",
+      "count": 4
+    },
+    {
+      "login": "RichardLitt",
+      "name": "Richard Littauer",
+      "url": "https://github.com/RichardLitt",
+      "count": 4
+    },
+    {
+      "login": "nmarley",
+      "name": "Nathan Marley",
+      "url": "https://github.com/nmarley",
+      "count": 4
+    },
+    {
+      "login": "ticruz38",
+      "name": "Ticruz",
+      "url": "https://github.com/ticruz38",
+      "count": 4
+    },
+    {
+      "login": "jbenet",
+      "name": "Juan Benet",
+      "url": "https://github.com/jbenet",
+      "count": 4
+    },
+    {
+      "login": "joshmh",
+      "name": "Josh Harvey",
+      "url": "https://github.com/joshmh",
+      "count": 4
+    },
+    {
+      "login": "zabirauf",
+      "name": "Zohaib Rauf",
+      "url": "https://github.com/zabirauf",
+      "count": 4
+    },
+    {
+      "login": "adamski",
+      "name": "Adam Wilson",
+      "url": "https://github.com/adamski",
+      "count": 4
+    },
+    {
+      "login": "bronger",
+      "name": "Torsten Bronger",
+      "url": "https://github.com/bronger",
+      "count": 4
+    },
+    {
+      "login": "niksmac",
+      "name": "Nikhil Mohan",
+      "url": "https://github.com/niksmac",
+      "count": 3
+    },
+    {
+      "login": "jobando89",
+      "name": "jobando",
+      "url": "https://github.com/jobando89",
+      "count": 3
+    },
+    {
+      "login": "beingmohit",
+      "name": "Mohit Agrawal",
+      "url": "https://github.com/beingmohit",
+      "count": 3
+    },
+    {
+      "login": "compsocial",
+      "name": null,
+      "url": "https://github.com/compsocial",
+      "count": 3
+    },
+    {
+      "login": "fazo96",
+      "name": "Enrico Fasoli",
+      "url": "https://github.com/fazo96",
+      "count": 3
+    },
+    {
+      "login": "edsilv",
+      "name": "Edward Silverton",
+      "url": "https://github.com/edsilv",
+      "count": 3
+    },
+    {
+      "login": "RobertChristopher",
+      "name": "Rob",
+      "url": "https://github.com/RobertChristopher",
+      "count": 2
+    },
+    {
+      "login": "theD1360",
+      "name": "Diego Alejos",
+      "url": "https://github.com/theD1360",
+      "count": 2
+    },
+    {
+      "login": "prabodhmeshram",
+      "name": "Prabodh Meshram",
+      "url": "https://github.com/prabodhmeshram",
+      "count": 2
+    },
+    {
+      "login": "therebelrobot",
+      "name": "Oz Haven",
+      "url": "https://github.com/therebelrobot",
+      "count": 2
+    },
+    {
+      "login": "wigy-opensource-developer",
+      "name": "wigy",
+      "url": "https://github.com/wigy-opensource-developer",
+      "count": 2
+    },
+    {
+      "login": "spaceywolfi",
+      "name": "Wolfgang Silverdream",
+      "url": "https://github.com/spaceywolfi",
+      "count": 2
+    },
+    {
+      "login": "vijayee",
+      "name": "Victor Morrow",
+      "url": "https://github.com/vijayee",
+      "count": 2
+    },
+    {
+      "login": "dignifiedquire",
+      "name": "Friedel Ziegelmayer",
+      "url": "https://github.com/dignifiedquire",
+      "count": 2
+    },
+    {
+      "login": "nillia",
+      "name": "Nicolás Illia",
+      "url": "https://github.com/nillia",
+      "count": 2
+    },
+    {
+      "login": "shamb0t",
+      "name": null,
+      "url": "https://github.com/shamb0t",
+      "count": 2
+    },
+    {
+      "login": "diasdavid",
+      "name": "David Dias",
+      "url": "https://github.com/diasdavid",
+      "count": 2
+    },
+    {
+      "login": "mattisstenejohansen",
+      "name": "Mattis Stene-Johansen",
+      "url": "https://github.com/mattisstenejohansen",
+      "count": 2
+    },
+    {
+      "login": "aeschylus",
+      "name": "",
+      "url": "https://github.com/aeschylus",
+      "count": 1
+    },
+    {
+      "login": "zbyte64",
+      "name": "Jason Kraus",
+      "url": "https://github.com/zbyte64",
+      "count": 1
+    },
+    {
+      "login": "5310",
+      "name": "Sayantan Chaudhuri",
+      "url": "https://github.com/5310",
+      "count": 1
+    },
+    {
+      "login": "ccutch",
+      "name": "Connor McCutcheon",
+      "url": "https://github.com/ccutch",
+      "count": 1
+    },
+    {
+      "login": "VictorBjelkholm",
+      "name": "ᴠɪᴄᴛᴏʀ ʙᴊᴇʟᴋʜᴏʟᴍ",
+      "url": "https://github.com/VictorBjelkholm",
+      "count": 1
+    },
+    {
+      "login": "riteable",
+      "name": "",
+      "url": "https://github.com/riteable",
+      "count": 1
+    },
+    {
+      "login": "Kubuxu",
+      "name": "Jakub Sztandera",
+      "url": "https://github.com/Kubuxu",
+      "count": 1
+    },
+    {
+      "login": "lgierth",
+      "name": "Lars Gierth",
+      "url": "https://github.com/lgierth",
+      "count": 1
+    },
+    {
+      "login": "fdietze",
+      "name": "Felix Dietze",
+      "url": "https://github.com/fdietze",
+      "count": 1
+    },
+    {
+      "login": "paulogr",
+      "name": "Paulo Guilherme Rodrigues",
+      "url": "https://github.com/paulogr",
+      "count": 1
+    },
+    {
+      "login": "fiatjaf",
+      "name": "Giovanni T. Parra",
+      "url": "https://github.com/fiatjaf",
+      "count": 1
+    },
+    {
+      "login": "raptortech-js",
+      "name": "Jackie Scholl",
+      "url": "https://github.com/raptortech-js",
+      "count": 1
+    },
+    {
+      "login": "MartinArens",
+      "name": "Martin Arens",
+      "url": "https://github.com/MartinArens",
+      "count": 1
+    },
+    {
+      "login": "shotlom",
+      "name": "Sholto Maud",
+      "url": "https://github.com/shotlom",
+      "count": 1
+    },
+    {
+      "login": "millette",
+      "name": "Robin Millette",
+      "url": "https://github.com/millette",
+      "count": 1
+    },
+    {
+      "login": "ashays",
+      "name": "Ashay",
+      "url": "https://github.com/ashays",
+      "count": 1
+    },
+    {
+      "login": "7flash",
+      "name": "Igor Berlenko",
+      "url": "https://github.com/7flash",
+      "count": 1
+    },
+    {
+      "login": "richardschneider",
+      "name": "Richard Schneider",
+      "url": "https://github.com/richardschneider",
+      "count": 1
+    },
+    {
+      "login": "kouohhashi",
+      "name": "Ko Ohashi",
+      "url": "https://github.com/kouohhashi",
+      "count": 1
+    },
+    {
+      "login": "KennethHolmSeelig",
+      "name": "Kenneth Holm Seelig",
+      "url": "https://github.com/KennethHolmSeelig",
+      "count": 1
+    },
+    {
+      "login": "nezzard",
+      "name": null,
+      "url": "https://github.com/nezzard",
+      "count": 1
+    },
+    {
+      "login": "coyotespike",
+      "name": "coyotespike",
+      "url": "https://github.com/coyotespike",
+      "count": 1
+    },
+    {
+      "login": "elsehow",
+      "name": "",
+      "url": "https://github.com/elsehow",
+      "count": 1
+    },
+    {
+      "login": "cyclopse87",
+      "name": null,
+      "url": "https://github.com/cyclopse87",
+      "count": 1
+    },
+    {
+      "login": "jchris",
+      "name": "Chris Anderson",
+      "url": "https://github.com/jchris",
+      "count": 1
+    },
+    {
+      "login": "HenryNguyen5",
+      "name": "",
+      "url": "https://github.com/HenryNguyen5",
+      "count": 1
+    },
+    {
+      "login": "glensimister",
+      "name": null,
+      "url": "https://github.com/glensimister",
+      "count": 1
+    },
+    {
+      "login": "MichaelMure",
+      "name": "Michael Muré",
+      "url": "https://github.com/MichaelMure",
+      "count": 1
+    },
+    {
+      "login": "marcusfelix",
+      "name": null,
+      "url": "https://github.com/marcusfelix",
+      "count": 1
+    },
+    {
+      "login": "aphelionz",
+      "name": "Mark Robert Henderson",
+      "url": "https://github.com/aphelionz",
+      "count": 1
+    },
+    {
+      "login": "IamCarbonMan",
+      "name": "",
+      "url": "https://github.com/IamCarbonMan",
+      "count": 1
+    }
+  ],
+  "reviewers": [
+    {
+      "login": "haadcode",
+      "name": "Haad",
+      "url": "https://github.com/haadcode",
+      "count": 6
+    },
+    {
+      "login": "dignifiedquire",
+      "name": "Friedel Ziegelmayer",
+      "url": "https://github.com/dignifiedquire",
+      "count": 1
+    },
+    {
+      "login": "RichardLitt",
+      "name": "Richard Littauer",
+      "url": "https://github.com/RichardLitt",
+      "count": 1
+    }
+  ],
+  "commitAuthors": [
+    {
+      "login": "haadcode",
+      "name": "Haad",
+      "url": "https://github.com/haadcode",
+      "count": 720
+    },
+    {
+      "login": "greenkeeperio-bot",
+      "name": "Greenkeeper",
+      "url": "https://github.com/greenkeeperio-bot",
+      "count": 13
+    },
+    {
+      "login": "dignifiedquire",
+      "name": "Friedel Ziegelmayer",
+      "url": "https://github.com/dignifiedquire",
+      "count": 8
+    },
+    {
+      "login": "ricardojmendez",
+      "name": "Ricardo J. Méndez",
+      "url": "https://github.com/ricardojmendez",
+      "count": 4
+    },
+    {
+      "login": "shamb0t",
+      "name": null,
+      "url": "https://github.com/shamb0t",
+      "count": 2
+    },
+    {
+      "login": "thiagodelgado111",
+      "name": "Thiago Delgado",
+      "url": "https://github.com/thiagodelgado111",
+      "count": 2
+    },
+    {
+      "login": "RichardLitt",
+      "name": "Richard Littauer",
+      "url": "https://github.com/RichardLitt",
+      "count": 2
+    },
+    {
+      "login": "prabodhmeshram",
+      "name": "Prabodh Meshram",
+      "url": "https://github.com/prabodhmeshram",
+      "count": 2
+    },
+    {
+      "login": "onionjake",
+      "name": "",
+      "url": "https://github.com/onionjake",
+      "count": 1
+    },
+    {
+      "login": "claus",
+      "name": "Claus Wahlers",
+      "url": "https://github.com/claus",
+      "count": 1
+    },
+    {
+      "login": "atfornes",
+      "name": "Antonio Tenorio-Fornés",
+      "url": "https://github.com/atfornes",
+      "count": 1
+    },
+    {
+      "login": "Alex-Werner",
+      "name": "Alex Werner",
+      "url": "https://github.com/Alex-Werner",
+      "count": 1
+    },
+    {
+      "login": "nightwolfz",
+      "name": "Ryan M.",
+      "url": "https://github.com/nightwolfz",
+      "count": 1
+    },
+    {
+      "login": "Kubuxu",
+      "name": "Jakub Sztandera",
+      "url": "https://github.com/Kubuxu",
+      "count": 1
+    },
+    {
+      "login": "FrauBienenstich",
+      "name": "Susanne Dewein",
+      "url": "https://github.com/FrauBienenstich",
+      "count": 1
+    },
+    {
+      "login": "lufte",
+      "name": "Javier Ayres",
+      "url": "https://github.com/lufte",
+      "count": 1
+    },
+    {
+      "login": "garbados",
+      "name": "Diana Thayer",
+      "url": "https://github.com/garbados",
+      "count": 1
+    }
+  ],
+  "commitCommentators": []
+}
